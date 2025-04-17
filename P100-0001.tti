@@ -1,0 +1,18 @@
+DE,100
+PS,8000
+PN,10001
+SC,0001
+RE,0
+OL,1,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,S        # m>  #!        
+OL,3,S       |       ,$           
+OL,4,S                p0          
+OL,5,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,M               INDICE                  
+OL,7,L                                       
+OL,8,C  100GINDICE                           
+OL,9,C  200GPROPAGZIONE                      
+OL,10,C  300GCALENDARIO CONTEST               
+OL,11,C  400GBANDPLAN                         
+OL,12,C  500GCREDITS                          
+OL,24,C 2025 IU80WH FRANCESCO                 

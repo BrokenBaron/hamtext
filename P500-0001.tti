@@ -1,0 +1,21 @@
+DE,500.tti
+PS,8000
+PN,50001
+SC,0001
+RE,0
+OL,1,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,S        # m>  #!        
+OL,3,S       |       ,$           
+OL,4,S                p0          
+OL,5,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,6,M                CREDITS                
+OL,7,L                                       
+OL,8, HAMTEXT e'stato creato ad Aprile 2025  
+OL,9, da IU8OWH Francesco.Ciu8owh@gmail.com  
+OL,10, Disegnato con Teletext Page Editor     
+OL,11,Czxnet.co.uk                            
+OL,12, Hardware: Raspberry Pi 2B+             
+OL,13, Software: vbit2                        
+OL,14,          Cgithub.com/peterkvt80/       
+OL,15,           raspi-teletext               
+OL,16,C   github.com/ali1234/raspi-teletext   
